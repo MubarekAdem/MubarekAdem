@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mubarem Adem</h1>
+<h1 align="center">Hi 👋, I'm Mubarek Adem</h1>
 <h3 align="center">A passionate information Systems student at BDU.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubarekadem" alt="mubarekadem" /></a> </p>
