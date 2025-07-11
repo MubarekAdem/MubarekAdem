@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hey , I'm Mubarek
+Hey , I'm Mubarek detail-oriented full-stack developer with extensive experience in building dynamic, user-centric web applications and interactive
+frontends.
+With intermediate knowledge of Flutter, I bring versatility to mobile app development, enabling cross-platform solutions.
+Proficient in JavaScript, TypeScript, Node.js, MySQL, and MongoDB, I excel in creating seamless user experiences backed by robust, scalable
+backend architectures.
 
 
 ## 🌐 Socials:
